@@ -2,7 +2,8 @@
 Pedazo compartido
 \textbf{Motivation.} If motivational forces are not present, the transition towards a product line approach should not start regardless of the overall preparation for this change [12], [13]. 
 Indeed, having motivation is fundamental to succeed with any organizational change \citep{Armenakis1993} 
-Esto alguien lo va borrar
+
+Pues lo borré yo
 
 
 aqui estamos todos
