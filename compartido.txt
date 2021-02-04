@@ -1,6 +1,6 @@
 
 Nueva linea
-Pedazo1 compartido
+Pedazo1 compartido Daniela
 \textbf{Motivation3.} If motivational forces are not present, the transition towards a product line approach should not start regardless of the overall preparation for this change [12], [13]. 
 Indeed, having motivation is fundamental to succeed with any organizational change \citep{Armenakis1993}
 Lorem ipsum Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... 
